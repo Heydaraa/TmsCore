@@ -1,0 +1,13 @@
+# Node / TypeScript
+node_modules/
+dist/
+*.js
+*.js.map
+*.d.ts
+!src/**/*.d.ts
+
+# .NET / C#
+bin/
+obj/
+.vs/
+.vscode/
